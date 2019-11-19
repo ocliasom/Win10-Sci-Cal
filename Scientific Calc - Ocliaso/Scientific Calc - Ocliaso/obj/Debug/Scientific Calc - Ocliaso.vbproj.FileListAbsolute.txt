@@ -9,3 +9,14 @@ C:\Users\Asus\source\repos\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\o
 C:\Users\Asus\source\repos\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific Calc - Ocliaso.exe
 C:\Users\Asus\source\repos\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific Calc - Ocliaso.xml
 C:\Users\Asus\source\repos\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific Calc - Ocliaso.pdb
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\bin\Debug\Scientific Calc - Ocliaso.exe.config
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\bin\Debug\Scientific Calc - Ocliaso.exe
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\bin\Debug\Scientific Calc - Ocliaso.pdb
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\bin\Debug\Scientific Calc - Ocliaso.xml
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific Calc - Ocliaso.vbprojAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific_Calc___Ocliaso.Form1.resources
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific_Calc___Ocliaso.Resources.resources
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific Calc - Ocliaso.vbproj.GenerateResource.cache
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific Calc - Ocliaso.exe
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific Calc - Ocliaso.xml
+C:\Users\Asus\Documents\GitHub\Win10-Sci-Cal\Scientific Calc - Ocliaso\Scientific Calc - Ocliaso\obj\Debug\Scientific Calc - Ocliaso.pdb

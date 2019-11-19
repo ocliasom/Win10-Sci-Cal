@@ -67,10 +67,13 @@ Partial Class Form1
         Me.Button43 = New System.Windows.Forms.Button()
         Me.Button44 = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.Button45 = New System.Windows.Forms.Button()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Button46 = New System.Windows.Forms.Button()
         Me.Button47 = New System.Windows.Forms.Button()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Button1
@@ -80,14 +83,14 @@ Partial Class Form1
         Me.Button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button1.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Font = New System.Drawing.Font("Century Schoolbook", 14.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Location = New System.Drawing.Point(5, 315)
         Me.Button1.MaximumSize = New System.Drawing.Size(501, 500)
         Me.Button1.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(95, 65)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "x^2"
+        Me.Button1.Text = "x"
         Me.Button1.UseVisualStyleBackColor = False
         '
         'Button2
@@ -97,13 +100,13 @@ Partial Class Form1
         Me.Button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button2.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Font = New System.Drawing.Font("Century Schoolbook", 14.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.Location = New System.Drawing.Point(101, 315)
         Me.Button2.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(95, 65)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "x^y"
+        Me.Button2.Text = "x"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'Button3
@@ -215,7 +218,7 @@ Partial Class Form1
         Me.Button9.Name = "Button9"
         Me.Button9.Size = New System.Drawing.Size(95, 65)
         Me.Button9.TabIndex = 6
-        Me.Button9.Text = "10^x"
+        Me.Button9.Text = "10"
         Me.Button9.UseVisualStyleBackColor = False
         '
         'Button10
@@ -782,27 +785,11 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Black
-        Me.Label1.Location = New System.Drawing.Point(52, 12)
+        Me.Label1.Location = New System.Drawing.Point(52, 11)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(122, 37)
         Me.Label1.TabIndex = 44
         Me.Label1.Text = "Scientific"
-        '
-        'Button45
-        '
-        Me.Button45.BackColor = System.Drawing.Color.Transparent
-        Me.Button45.FlatAppearance.BorderSize = 0
-        Me.Button45.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
-        Me.Button45.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
-        Me.Button45.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button45.Font = New System.Drawing.Font("Segoe UI Symbol", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button45.Location = New System.Drawing.Point(752, 732)
-        Me.Button45.MinimumSize = New System.Drawing.Size(50, 50)
-        Me.Button45.Name = "Button45"
-        Me.Button45.Size = New System.Drawing.Size(50, 50)
-        Me.Button45.TabIndex = 45
-        Me.Button45.Text = "🗑"
-        Me.Button45.UseVisualStyleBackColor = False
         '
         'Label3
         '
@@ -845,6 +832,57 @@ Partial Class Form1
         Me.Button47.Text = "Memory"
         Me.Button47.UseVisualStyleBackColor = True
         '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.BackColor = System.Drawing.Color.Gainsboro
+        Me.Label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Label2.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.Label2.ForeColor = System.Drawing.Color.Black
+        Me.Label2.Location = New System.Drawing.Point(58, 333)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(0)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(17, 20)
+        Me.Label2.TabIndex = 50
+        Me.Label2.Text = "2"
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.BackColor = System.Drawing.Color.Gainsboro
+        Me.Label4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Label4.Font = New System.Drawing.Font("Century Schoolbook", 10.0!, System.Drawing.FontStyle.Italic)
+        Me.Label4.ForeColor = System.Drawing.Color.Black
+        Me.Label4.Location = New System.Drawing.Point(154, 331)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(18, 20)
+        Me.Label4.TabIndex = 51
+        Me.Label4.Text = "y"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.BackColor = System.Drawing.Color.Gainsboro
+        Me.Label5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Label5.Font = New System.Drawing.Font("Century Schoolbook", 9.0!, System.Drawing.FontStyle.Italic)
+        Me.Label5.ForeColor = System.Drawing.Color.Black
+        Me.Label5.Location = New System.Drawing.Point(157, 397)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(16, 18)
+        Me.Label5.TabIndex = 52
+        Me.Label5.Text = "x"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Font = New System.Drawing.Font("Segoe UI Semibold", 11.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.ForeColor = System.Drawing.Color.Black
+        Me.Label6.Location = New System.Drawing.Point(501, 94)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(200, 25)
+        Me.Label6.TabIndex = 53
+        Me.Label6.Text = "There's no history yet."
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -852,10 +890,13 @@ Partial Class Form1
         Me.AutoValidate = System.Windows.Forms.AutoValidate.EnableAllowFocusChange
         Me.BackColor = System.Drawing.Color.LightGray
         Me.ClientSize = New System.Drawing.Size(800, 787)
+        Me.Controls.Add(Me.Label6)
+        Me.Controls.Add(Me.Label5)
+        Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Button47)
         Me.Controls.Add(Me.Button46)
         Me.Controls.Add(Me.Label3)
-        Me.Controls.Add(Me.Button45)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button44)
         Me.Controls.Add(Me.Button41)
@@ -957,8 +998,11 @@ Partial Class Form1
     Friend WithEvents Button43 As Button
     Friend WithEvents Button44 As Button
     Friend WithEvents Label1 As Label
-    Friend WithEvents Button45 As Button
     Friend WithEvents Label3 As Label
     Friend WithEvents Button46 As Button
     Friend WithEvents Button47 As Button
+    Friend WithEvents Label2 As Label
+    Friend WithEvents Label4 As Label
+    Friend WithEvents Label5 As Label
+    Friend WithEvents Label6 As Label
 End Class

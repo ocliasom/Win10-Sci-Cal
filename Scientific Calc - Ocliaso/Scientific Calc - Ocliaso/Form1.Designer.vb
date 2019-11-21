@@ -70,9 +70,6 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Button46 = New System.Windows.Forms.Button()
         Me.Button47 = New System.Windows.Forms.Button()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
@@ -90,7 +87,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(95, 65)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "x"
+        Me.Button1.Text = "x²"
         Me.Button1.UseVisualStyleBackColor = False
         '
         'Button2
@@ -106,7 +103,7 @@ Partial Class Form1
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(95, 65)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "x"
+        Me.Button2.Text = "xʸ"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'Button3
@@ -218,7 +215,7 @@ Partial Class Form1
         Me.Button9.Name = "Button9"
         Me.Button9.Size = New System.Drawing.Size(95, 65)
         Me.Button9.TabIndex = 6
-        Me.Button9.Text = "10"
+        Me.Button9.Text = "10ˣ"
         Me.Button9.UseVisualStyleBackColor = False
         '
         'Button10
@@ -831,46 +828,6 @@ Partial Class Form1
         Me.Button47.Text = "Memory"
         Me.Button47.UseVisualStyleBackColor = True
         '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.BackColor = System.Drawing.Color.Gainsboro
-        Me.Label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Label2.Font = New System.Drawing.Font("Segoe UI", 8.0!)
-        Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(57, 333)
-        Me.Label2.Margin = New System.Windows.Forms.Padding(0)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(17, 19)
-        Me.Label2.TabIndex = 50
-        Me.Label2.Text = "2"
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.BackColor = System.Drawing.Color.Gainsboro
-        Me.Label4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Label4.Font = New System.Drawing.Font("Century Schoolbook", 8.0!, System.Drawing.FontStyle.Italic)
-        Me.Label4.ForeColor = System.Drawing.Color.Black
-        Me.Label4.Location = New System.Drawing.Point(153, 331)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(19, 21)
-        Me.Label4.TabIndex = 51
-        Me.Label4.Text = "y"
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.BackColor = System.Drawing.Color.Gainsboro
-        Me.Label5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Label5.Font = New System.Drawing.Font("Century Schoolbook", 8.0!, System.Drawing.FontStyle.Italic)
-        Me.Label5.ForeColor = System.Drawing.Color.Black
-        Me.Label5.Location = New System.Drawing.Point(157, 397)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(19, 21)
-        Me.Label5.TabIndex = 52
-        Me.Label5.Text = "x"
-        '
         'Label6
         '
         Me.Label6.AutoSize = True
@@ -890,9 +847,6 @@ Partial Class Form1
         Me.BackColor = System.Drawing.Color.LightGray
         Me.ClientSize = New System.Drawing.Size(800, 787)
         Me.Controls.Add(Me.Label6)
-        Me.Controls.Add(Me.Label5)
-        Me.Controls.Add(Me.Label4)
-        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Button47)
         Me.Controls.Add(Me.Button46)
         Me.Controls.Add(Me.Label3)
@@ -1000,8 +954,5 @@ Partial Class Form1
     Friend WithEvents Label3 As Label
     Friend WithEvents Button46 As Button
     Friend WithEvents Button47 As Button
-    Friend WithEvents Label2 As Label
-    Friend WithEvents Label4 As Label
-    Friend WithEvents Label5 As Label
     Friend WithEvents Label6 As Label
 End Class

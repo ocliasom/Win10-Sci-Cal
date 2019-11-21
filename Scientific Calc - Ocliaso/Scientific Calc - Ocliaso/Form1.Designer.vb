@@ -83,7 +83,7 @@ Partial Class Form1
         Me.Button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button1.Font = New System.Drawing.Font("Century Schoolbook", 14.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Font = New System.Drawing.Font("Century Schoolbook", 13.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Location = New System.Drawing.Point(5, 315)
         Me.Button1.MaximumSize = New System.Drawing.Size(501, 500)
         Me.Button1.MinimumSize = New System.Drawing.Size(69, 50)
@@ -100,7 +100,7 @@ Partial Class Form1
         Me.Button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button2.Font = New System.Drawing.Font("Century Schoolbook", 14.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Font = New System.Drawing.Font("Century Schoolbook", 13.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.Location = New System.Drawing.Point(101, 315)
         Me.Button2.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button2.Name = "Button2"
@@ -260,7 +260,7 @@ Partial Class Form1
         Me.Button12.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button12.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button12.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button12.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button12.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button12.Location = New System.Drawing.Point(295, 516)
         Me.Button12.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button12.Name = "Button12"
@@ -276,7 +276,7 @@ Partial Class Form1
         Me.Button13.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button13.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button13.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button13.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button13.Location = New System.Drawing.Point(198, 516)
         Me.Button13.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button13.Name = "Button13"
@@ -292,7 +292,7 @@ Partial Class Form1
         Me.Button14.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button14.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button14.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button14.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button14.Location = New System.Drawing.Point(101, 516)
         Me.Button14.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button14.Name = "Button14"
@@ -308,7 +308,7 @@ Partial Class Form1
         Me.Button15.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button15.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button15.Font = New System.Drawing.Font("Segoe UI", 14.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button15.Font = New System.Drawing.Font("Segoe UI Light", 14.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button15.Location = New System.Drawing.Point(5, 516)
         Me.Button15.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button15.Name = "Button15"
@@ -436,7 +436,7 @@ Partial Class Form1
         Me.Button23.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button23.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button23.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button23.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button23.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button23.Location = New System.Drawing.Point(198, 717)
         Me.Button23.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button23.Name = "Button23"
@@ -500,7 +500,7 @@ Partial Class Form1
         Me.Button27.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button27.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button27.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button27.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button27.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button27.Location = New System.Drawing.Point(295, 650)
         Me.Button27.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button27.Name = "Button27"
@@ -516,7 +516,7 @@ Partial Class Form1
         Me.Button28.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button28.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button28.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button28.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button28.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button28.Location = New System.Drawing.Point(198, 650)
         Me.Button28.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button28.Name = "Button28"
@@ -532,7 +532,7 @@ Partial Class Form1
         Me.Button29.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button29.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button29.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button29.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button29.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button29.Location = New System.Drawing.Point(101, 650)
         Me.Button29.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button29.Name = "Button29"
@@ -580,7 +580,7 @@ Partial Class Form1
         Me.Button32.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button32.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button32.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button32.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button32.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button32.Location = New System.Drawing.Point(295, 583)
         Me.Button32.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button32.Name = "Button32"
@@ -596,7 +596,7 @@ Partial Class Form1
         Me.Button33.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button33.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button33.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button33.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button33.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button33.Location = New System.Drawing.Point(198, 583)
         Me.Button33.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button33.Name = "Button33"
@@ -612,7 +612,7 @@ Partial Class Form1
         Me.Button34.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button34.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button34.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button34.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Bold)
+        Me.Button34.Font = New System.Drawing.Font("Segoe UI Semibold", 18.0!, System.Drawing.FontStyle.Bold)
         Me.Button34.Location = New System.Drawing.Point(101, 583)
         Me.Button34.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button34.Name = "Button34"
@@ -628,7 +628,7 @@ Partial Class Form1
         Me.Button35.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray
         Me.Button35.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button35.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button35.Font = New System.Drawing.Font("Segoe UI", 14.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button35.Font = New System.Drawing.Font("Segoe UI", 13.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button35.Location = New System.Drawing.Point(5, 583)
         Me.Button35.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button35.Name = "Button35"
@@ -692,7 +692,7 @@ Partial Class Form1
         Me.Button39.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button39.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button39.Font = New System.Drawing.Font("Segoe UI Semibold", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button39.ForeColor = System.Drawing.Color.Black
+        Me.Button39.ForeColor = System.Drawing.Color.DarkGray
         Me.Button39.Location = New System.Drawing.Point(101, 265)
         Me.Button39.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button39.Name = "Button39"
@@ -708,7 +708,7 @@ Partial Class Form1
         Me.Button40.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver
         Me.Button40.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button40.Font = New System.Drawing.Font("Segoe UI Semibold", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button40.ForeColor = System.Drawing.Color.Black
+        Me.Button40.ForeColor = System.Drawing.Color.DarkGray
         Me.Button40.Location = New System.Drawing.Point(5, 265)
         Me.Button40.MinimumSize = New System.Drawing.Size(69, 50)
         Me.Button40.Name = "Button40"
@@ -770,24 +770,23 @@ Partial Class Form1
         Me.Button44.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver
         Me.Button44.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray
         Me.Button44.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button44.Font = New System.Drawing.Font("Arial Unicode MS", 25.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel)
+        Me.Button44.Font = New System.Drawing.Font("Arial Unicode MS", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel)
         Me.Button44.ForeColor = System.Drawing.SystemColors.ControlText
         Me.Button44.Location = New System.Drawing.Point(1, 4)
         Me.Button44.Name = "Button44"
         Me.Button44.Size = New System.Drawing.Size(50, 50)
         Me.Button44.TabIndex = 43
         Me.Button44.Text = "☰"
-        Me.Button44.TextAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button44.UseVisualStyleBackColor = False
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Segoe UI", 16.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Font = New System.Drawing.Font("Segoe UI", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Black
-        Me.Label1.Location = New System.Drawing.Point(52, 11)
+        Me.Label1.Location = New System.Drawing.Point(52, 12)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(122, 37)
+        Me.Label1.Size = New System.Drawing.Size(113, 35)
         Me.Label1.TabIndex = 44
         Me.Label1.Text = "Scientific"
         '
@@ -837,12 +836,12 @@ Partial Class Form1
         Me.Label2.AutoSize = True
         Me.Label2.BackColor = System.Drawing.Color.Gainsboro
         Me.Label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Label2.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.Label2.Font = New System.Drawing.Font("Segoe UI", 8.0!)
         Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(58, 333)
+        Me.Label2.Location = New System.Drawing.Point(57, 333)
         Me.Label2.Margin = New System.Windows.Forms.Padding(0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(17, 20)
+        Me.Label2.Size = New System.Drawing.Size(17, 19)
         Me.Label2.TabIndex = 50
         Me.Label2.Text = "2"
         '
@@ -851,11 +850,11 @@ Partial Class Form1
         Me.Label4.AutoSize = True
         Me.Label4.BackColor = System.Drawing.Color.Gainsboro
         Me.Label4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Label4.Font = New System.Drawing.Font("Century Schoolbook", 10.0!, System.Drawing.FontStyle.Italic)
+        Me.Label4.Font = New System.Drawing.Font("Century Schoolbook", 8.0!, System.Drawing.FontStyle.Italic)
         Me.Label4.ForeColor = System.Drawing.Color.Black
-        Me.Label4.Location = New System.Drawing.Point(154, 331)
+        Me.Label4.Location = New System.Drawing.Point(153, 331)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(18, 20)
+        Me.Label4.Size = New System.Drawing.Size(19, 21)
         Me.Label4.TabIndex = 51
         Me.Label4.Text = "y"
         '
@@ -864,22 +863,22 @@ Partial Class Form1
         Me.Label5.AutoSize = True
         Me.Label5.BackColor = System.Drawing.Color.Gainsboro
         Me.Label5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Label5.Font = New System.Drawing.Font("Century Schoolbook", 9.0!, System.Drawing.FontStyle.Italic)
+        Me.Label5.Font = New System.Drawing.Font("Century Schoolbook", 8.0!, System.Drawing.FontStyle.Italic)
         Me.Label5.ForeColor = System.Drawing.Color.Black
         Me.Label5.Location = New System.Drawing.Point(157, 397)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(16, 18)
+        Me.Label5.Size = New System.Drawing.Size(19, 21)
         Me.Label5.TabIndex = 52
         Me.Label5.Text = "x"
         '
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Font = New System.Drawing.Font("Segoe UI Semibold", 11.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.Font = New System.Drawing.Font("Segoe UI Semibold", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label6.ForeColor = System.Drawing.Color.Black
         Me.Label6.Location = New System.Drawing.Point(501, 94)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(200, 25)
+        Me.Label6.Size = New System.Drawing.Size(223, 29)
         Me.Label6.TabIndex = 53
         Me.Label6.Text = "There's no history yet."
         '
